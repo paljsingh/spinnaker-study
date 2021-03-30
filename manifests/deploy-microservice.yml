@@ -2,7 +2,7 @@ kind: Deployment
 apiVersion: apps/v1
 metadata:
     labels:
-        app: mild-temper-microservice
+        app: brown-sociology-microservice
         stack: frontend
         source: demo
     name: mild-temper-microservice
